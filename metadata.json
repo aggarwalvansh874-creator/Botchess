@@ -1,0 +1,6 @@
+{
+  "name": "BotChess",
+  "description": "Master-level chess engine battle platform with Grandmaster-crushing AI, diverse bot personalities, historical game replay with insightful move suggestions, real-time evaluation, and cross-device Google sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
